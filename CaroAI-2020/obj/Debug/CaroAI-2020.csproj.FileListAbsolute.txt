@@ -1,0 +1,10 @@
+C:\Users\KIEN IT\source\repos\CaroAI-2020\CaroAI-2020\bin\Debug\CaroAI-2020.exe.config
+C:\Users\KIEN IT\source\repos\CaroAI-2020\CaroAI-2020\bin\Debug\CaroAI-2020.exe
+C:\Users\KIEN IT\source\repos\CaroAI-2020\CaroAI-2020\bin\Debug\CaroAI-2020.pdb
+C:\Users\KIEN IT\source\repos\CaroAI-2020\CaroAI-2020\obj\Debug\CaroAI-2020.csprojAssemblyReference.cache
+C:\Users\KIEN IT\source\repos\CaroAI-2020\CaroAI-2020\obj\Debug\CaroAI_2020.Properties.Resources.resources
+C:\Users\KIEN IT\source\repos\CaroAI-2020\CaroAI-2020\obj\Debug\CaroAI-2020.csproj.GenerateResource.cache
+C:\Users\KIEN IT\source\repos\CaroAI-2020\CaroAI-2020\obj\Debug\CaroAI-2020.csproj.CoreCompileInputs.cache
+C:\Users\KIEN IT\source\repos\CaroAI-2020\CaroAI-2020\obj\Debug\CaroAI-2020.exe
+C:\Users\KIEN IT\source\repos\CaroAI-2020\CaroAI-2020\obj\Debug\CaroAI-2020.pdb
+C:\Users\KIEN IT\source\repos\CaroAI-2020\CaroAI-2020\obj\Debug\CaroAI_2020.GameCaro.resources
